@@ -26,6 +26,12 @@ My academic focus intertwines computer vision and natural language processing (N
 - **Soft Skills:** Communication, Problem-solving, Team Collaboration
 
 
+## Publication
+- [Enhanced Yoga Posture Detection using Deep Learning and Ensemble Modeling](https://doi.org/10.1109/ICECCME57830.2023.10252764)
+
+
+
+
 ## Projects
 
 ### 1. GPT-2 Bengali Language Model
