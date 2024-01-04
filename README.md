@@ -1,5 +1,5 @@
 ## About Me
-I'm a dedicated researcher currently working on my MSc in Data Science path at BRAC University. I hold a BSc in Computer Science and Engineering from the same university. I'm really into Machine Learning, love exploring new technologies, and find the intersection of these areas super intriguing. My goal is to dive deep into these fields, learn as much as I can, and contribute to the exciting world of technology and data science.
+I'm a committed researcher currently working on my MSc in data science path at BRAC University. I hold a BSc in Computer Science and Engineering from the same university. I'm really into Machine Learning, love exploring new technologies, and find the intersection of these areas super intriguing. My goal is to dive deep into these fields, learn as much as I can, and contribute to the exciting world of technology and data science.
 
 ## Education
 - **MSc in Data Science**
@@ -67,7 +67,5 @@ My academic focus intertwines computer vision and natural language processing (N
 
 ## Contact Information
 - Email: [shah.imran.1599@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/shah-imran-7a983b2a7/]
-- Scholar: [Scholar Profile]
 
 Feel free to explore my GitHub repositories for more details about my work. Thank you for visiting!
