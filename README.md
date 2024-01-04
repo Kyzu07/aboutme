@@ -20,9 +20,7 @@ My academic focus intertwines computer vision and natural language processing (N
 - **Data Manipulation & Analysis:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
 - **Mathematical Skills for Machine Learning:**
-  - Solid foundation in Linear Algebra.
-  - Proficient in Calculus.
-  - Sound understanding of Statistics.
+  - Sound understanding of Linear Algebra, Calculus, Probability & Statistics.
 - **Soft Skills:** Communication, Problem-solving, Team Collaboration
 
 
