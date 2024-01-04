@@ -17,19 +17,23 @@ My academic focus intertwines computer vision and natural language processing (N
 
 ### 1. GPT-2 Bengali Language Model
 - Fine-tuned GPT-2 on Bengali literature for contextual text generation.
-- [https://github.com/Kyzu07/bengali_literature_gpt2_custom]
+- [Link to Project Repository](https://github.com/Kyzu07/bengali_literature_gpt2_custom)
 
 ### 2. T5-based Bengali Poetry Generation
 - Created a T5-based model for generating Bengali poetry using the complete collection of Kazi Nazrul Islam.
-- [https://github.com/Kyzu07/bengali_poem_t5_custom]
+- [Link to Project Repository](https://github.com/Kyzu07/bengali_poem_t5_custom)
 
-### 3. Music Emotion Classification and Detection
+### 3. Yoga Pose Detection using Deep Learning
+- Implemented a deep learning-based system for accurate detection of yoga poses.
+- [Link to Project Repository](https://github.com/Kyzu07/Yoga-Pose-Detection)
+
+### 4. Music Emotion Classification and Detection
 - Developed an algorithm for efficiently classifying and recommending music based on emotions.
-- [https://github.com/Kyzu07/music_emotion_classification]
+- [Link to Project Repository](https://github.com/Kyzu07/music_emotion_classification)
 
-### 4. Cucumber Disease Detection using YOLO
-- Implemented a YOLO-based model for automated detection of diseases in salad cucumber leaves.
-- [https://github.com/Kyzu07/Cucumber-Disease-Detection]
+### 5. Cucumber Disease Detection using YOLO
+- Implemented a YOLO-based model for automated detection of diseases in cucumber leaves.
+- [Link to Project Repository](https://github.com/Kyzu07/Cucumber-Disease-Detection)
 
 
 ## Contact Information
