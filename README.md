@@ -25,7 +25,7 @@ My academic focus intertwines computer vision and natural language processing (N
 
 
 ## Publication
-[Enhanced Yoga Posture Detection using Deep Learning and Ensemble Modeling](https://doi.org/10.1109/ICECCME57830.2023.10252764)
+[Enhanced Yoga Posture Detection using Deep Learning and Ensemble Modeling](https://doi.org/10.1109/ICECCME57830.2023.10252764)<br>
   Imran, S., Sadman, Z., Islam, A., & Karim, D. Z. (2023, July). Enhanced Yoga Posture Detection using Deep Learning and Ensemble Modeling. In 2023 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME) (pp. 1-6). IEEE.
 
 
