@@ -3,12 +3,12 @@ I'm a committed researcher currently working on my MSc in data science path at B
 
 ## Education
 - **MSc in Data Science**
-  - BRAC University
-  - [Present]
+  - BRAC University [Summer 2023 - Present]
 
 - **BSc in Computer Science and Engineering**
-  - BRAC University
-  - [Fall 2023]
+  - BRAC University [Summer 2018 - Fall 2022]
+  - CGPA 3.45
+  - Thesis: Yoga Posture Detection Using Deep Learning and Ensemble Modeling
 
 
 ## Research Focus
