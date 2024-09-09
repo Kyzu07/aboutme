@@ -1,5 +1,5 @@
 ## About Me
-I'm a committed researcher currently working on my MSc in data science path at BRAC University. I hold a BSc in Computer Science and Engineering from the same university. I'm really into Machine Learning, love exploring new technologies, and find the intersection of these areas super intriguing. My goal is to dive deep into these fields, learn as much as I can, and contribute to the exciting world of technology and data science.
+I'm a committed researcher currently working on my MSc in data science path at BRAC University. I hold a BSc in Computer Science and Engineering from the same university. I'm into Machine Learning, Natural Language Processing, Large Language Models, love exploring new technologies, and find the intersection of these areas super intriguing. My goal is to dive deep into these fields, learn as much as I can, and contribute to the exciting world of technology and data science.
 
 ## Education
 - **MSc in Data Science**
