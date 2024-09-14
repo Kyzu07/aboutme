@@ -1,7 +1,7 @@
 # Shah Imran
 
 ## About Me
-I'm a committed researcher currently pursuing my MSc in Data Science at BRAC University. With a BSc in Computer Science and Engineering from the same institution, I'm passionate about Machine Learning, Natural Language Processing, and Large Language Models. I find the intersection of these areas particularly intriguing and aim to contribute significantly to the exciting world of technology and data science.
+I'm a committed researcher currently pursuing my MSc in Data Science at BRAC University. I'm passionate about Machine Learning, Natural Language Processing, Computer Vision and Large Language Models. I find the intersection of these areas particularly intriguing and aim to contribute significantly to the exciting world of technology and data science.
 
 ## Education
 
@@ -11,17 +11,17 @@ I'm a committed researcher currently pursuing my MSc in Data Science at BRAC Uni
 
 **Key Courses and Learning Outcomes:**
 
-**Symbolic Machine Learning I:** Explored core concepts of supervised and unsupervised learning, studying state-of-the-art algorithms and their real-world applications. Developed skills in formulating machine learning problems and implementing solutions using appropriate software tools.
+**Symbolic Machine Learning I:** Learned about the classical machine learning algorithms such as random forest, regression trees, AdaBoost, gradient boosting, k-nearest neighbors, and support vector machines. Developed proficiency in clustering techniques and dimensionality reduction using Principal Component Analysis (PCA). Completed additional DataCamp courses in supervised and unsupervised learning, reinforcing practical implementation skills.
 
-**Symbolic Machine Learning II:** Delved into advanced machine learning techniques, including structured learning, transfer learning, and modern NLP methods like transformers. Studied machine learning applications in translation and addressed critical issues in AI ethics, including explainable AI and bias mitigation in ML models.
+**Symbolic Machine Learning II:** Focused on advanced Natural Language Processing (NLP) techniques, including Chomsky Normal Form (CNF) algorithms, structured prediction, and representation learning. Studied sequence learning models and transformer architectures in depth. Explored critical aspects of AI ethics, interpretability in machine learning models, and foundations of dataset construction for NLP tasks.
 
-**Advanced Artificial Intelligence:** Mastered advanced search techniques, planning, and knowledge representation in AI. Gained expertise in probabilistic reasoning, decision-making, and working with graphical models and Bayesian networks. Implemented AI algorithms for complex problem-solving, including reinforcement learning and recommender systems.
+**Advanced Artificial Intelligence:** Developed expertise in genetic algorithms, TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution), fuzzy TOPSIS, and Markov chains. Gained proficiency in probabilistic reasoning and decision-making using graphical models and Bayesian networks. Implemented AI algorithms for complex problem-solving, including reinforcement learning and recommender systems.
 
-**Neural Network and Fuzzy Systems:** Studied various artificial neural network architectures and learning algorithms, along with function approximation techniques. Explored fuzzy systems, fuzzy control, and genetic algorithms, culminating in the development of hybrid neuro-fuzzy and neuro-GA networks.
+**Neural Network and Fuzzy Systems:** Acquired in-depth knowledge of various neural network architectures including Multilayer Perceptrons (MLP), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Graph Neural Networks (GNN). Studied the foundations of neural networks, including backpropagation and optimization techniques. Explored fuzzy systems, fuzzy control, and genetic algorithms.
 
 **Distributed Computing Systems:** Acquired proficiency in shell scripting and version control with Git. Studied fundamental concepts of distributed systems and cloud computing, with a focus on ACID properties in distributed databases and the CAP theorem.
 
-**Graph Theory:** Mastered algorithms for directed and undirected graphs, including path finding, cycle detection, and tree structures. Studied network flow problems, graph coloring, and planarity, along with theoretical concepts such as Eulerian cycles and Menger's Theorem.
+**Graph Theory:** Learned about algorithms for directed and undirected graphs, including path finding, cycle detection, and tree structures. Studied network flow problems, graph coloring, and planarity, along with theoretical concepts such as Eulerian cycles and Menger's Theorem.
 
 ### BSc in Computer Science and Engineering
 **Institution:** BRAC University
@@ -30,7 +30,7 @@ I'm a committed researcher currently pursuing my MSc in Data Science at BRAC Uni
 **Thesis:** Yoga Posture Detection Using Deep Learning and Ensemble Modeling
 
 ## Research Focus
-My academic focus intertwines computer vision and natural language processing (NLP). My thesis explored image classification in computer vision, while my passion extends to NLP. Driven to solve real-world challenges, I leverage advanced technologies for innovative solutions.
+My academic focus intertwines natural language processing (NLP) and computer vision. My thesis explored image classification in computer vision, while my passion extends to NLP and trnasformers based large language models. 
 
 ## Skills
 - **Programming Languages:** Python, Java
