@@ -11,17 +11,23 @@ I'm a committed researcher currently pursuing my MSc in Data Science at BRAC Uni
 
 **Key Courses and Learning Outcomes:**
 
-**Symbolic Machine Learning I:** Learned about the classical machine learning algorithms such as random forest, regression trees, AdaBoost, gradient boosting, k-nearest neighbors, and support vector machines. Developed proficiency in clustering techniques and dimensionality reduction using Principal Component Analysis (PCA). Completed additional DataCamp courses in supervised and unsupervised learning, reinforcing practical implementation skills.
+**Symbolic Machine Learning I:** 
+Learned about the classical machine learning algorithms such as random forest, regression trees, AdaBoost, gradient boosting, k-nearest neighbors, and support vector machines. Developed proficiency in clustering techniques and dimensionality reduction using Principal Component Analysis (PCA). Completed additional DataCamp courses in supervised and unsupervised learning, reinforcing practical implementation skills.
 
-**Symbolic Machine Learning II:** Focused on advanced Natural Language Processing (NLP) techniques, including Chomsky Normal Form (CNF) algorithms, structured prediction, and representation learning. Studied sequence learning models and transformer architectures in depth. Explored critical aspects of AI ethics, interpretability in machine learning models, and foundations of dataset construction for NLP tasks.
+**Symbolic Machine Learning II:** 
+Focused on advanced Natural Language Processing (NLP) techniques, including Chomsky Normal Form (CNF) algorithms, structured prediction, and representation learning. Studied sequence learning models and transformer architectures in depth. Explored critical aspects of AI ethics, interpretability in machine learning models, and foundations of dataset construction for NLP tasks.
 
-**Advanced Artificial Intelligence:** Developed expertise in genetic algorithms, TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution), fuzzy TOPSIS, and Markov chains. Gained proficiency in probabilistic reasoning and decision-making using graphical models and Bayesian networks. Implemented AI algorithms for complex problem-solving, including reinforcement learning and recommender systems.
+**Advanced Artificial Intelligence:** 
+Developed expertise in genetic algorithms, TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution), fuzzy TOPSIS, and Markov chains. Gained proficiency in probabilistic reasoning and decision-making using graphical models and Bayesian networks. Implemented AI algorithms for complex problem-solving, including reinforcement learning and recommender systems.
 
-**Neural Network and Fuzzy Systems:** Acquired in-depth knowledge of various neural network architectures including Multilayer Perceptrons (MLP), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Graph Neural Networks (GNN). Studied the foundations of neural networks, including backpropagation and optimization techniques. Explored fuzzy systems, fuzzy control, and genetic algorithms.
+**Neural Network and Fuzzy Systems:** 
+Acquired in-depth knowledge of various neural network architectures including Multilayer Perceptrons (MLP), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Graph Neural Networks (GNN). Studied the foundations of neural networks, including backpropagation and optimization techniques. Explored fuzzy systems, fuzzy control, and genetic algorithms.
 
-**Distributed Computing Systems:** Acquired proficiency in shell scripting and version control with Git. Studied fundamental concepts of distributed systems and cloud computing, with a focus on ACID properties in distributed databases and the CAP theorem.
+**Distributed Computing Systems:** 
+Acquired proficiency in shell scripting and version control with Git. Studied fundamental concepts of distributed systems and cloud computing, with a focus on ACID properties in distributed databases and the CAP theorem.
 
-**Graph Theory:** Learned about algorithms for directed and undirected graphs, including path finding, cycle detection, and tree structures. Studied network flow problems, graph coloring, and planarity, along with theoretical concepts such as Eulerian cycles and Menger's Theorem.
+**Graph Theory:** 
+Learned about algorithms for directed and undirected graphs, including path finding, cycle detection, and tree structures. Studied network flow problems, graph coloring, and planarity, along with theoretical concepts such as Eulerian cycles and Menger's Theorem.
 
 ### BSc in Computer Science and Engineering
 **Institution:** BRAC University
